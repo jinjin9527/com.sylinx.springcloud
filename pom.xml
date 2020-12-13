@@ -24,6 +24,7 @@
         <module>springcloud-config-client-3355</module>
         <module>springcloud-config-eureka-7001</module>
         <module>springcloud-config-dept-8001</module>
+        <module>spring_mvc_async</module>
     </modules>
 
     <packaging>pom</packaging>
